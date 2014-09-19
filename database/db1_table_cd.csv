@@ -1,0 +1,4 @@
+music_genre_code, outlet_code, rcd_company_code, cd_set_id, various_artists_yn, cd_title, cost, date_released, nr_of_tracks, total_playing_time
+GC00002, OLC00002, RCDCC00002, CDSID0001, y, Sunny Day, 22.05, 12-05-2010, 24, 25.33
+GC00002, OLC00002, RCDCC00002, CDSID0002, y, Sunny Day, 22.05, 12-05-2010, 24, 25.33
+GC00002, OLC00002, RCDCC00002, CDSID0003, y, Sunny Day, 22.05, 12-05-2010, 24, 25.33

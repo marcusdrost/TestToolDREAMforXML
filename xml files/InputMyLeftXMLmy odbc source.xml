@@ -1,0 +1,49 @@
+<table name="Object_of_Investigation">
+    <record id="music_genre_code(GC00002)   rcd_company_code(RCDCC00002)   cd_set_id(CDSID0001)">
+        <music_genre_code>GC00002</music_genre_code>
+        <outlet_code>OLC00002</outlet_code>
+        <rcd_company_code>RCDCC00002</rcd_company_code>
+        <cd_set_id>CDSID0001</cd_set_id>
+        <various_artists_yn>y</various_artists_yn>
+        <cd_title>Sunny Day</cd_title>
+        <cost>2205.0</cost>
+        <date_released>2010-05-12 00:00:00.0</date_released>
+        <nr_of_tracks>24</nr_of_tracks>
+        <total_playing_time>2533.0</total_playing_time>
+        <cd_set_id>CDSID0001</cd_set_id>
+        <rcd_company_code>RCDCC00001</rcd_company_code>
+        <total_number_in_set>100</total_number_in_set>
+  </record>
+    <record id="music_genre_code(GC00002)   rcd_company_code(RCDCC00002)   cd_set_id(CDSID0002)">
+        <music_genre_code>GC00002</music_genre_code>
+        <outlet_code>OLC00002</outlet_code>
+        <rcd_company_code>RCDCC00002</rcd_company_code>
+        <cd_set_id>CDSID0002</cd_set_id>
+        <various_artists_yn>y</various_artists_yn>
+        <cd_title>Sunny Day</cd_title>
+        <cost>2205.0</cost>
+        <date_released>2010-05-12 00:00:00.0</date_released>
+        <nr_of_tracks>24</nr_of_tracks>
+        <total_playing_time>2533.0</total_playing_time>
+        <cd_set_id>CDSID0002</cd_set_id>
+        <rcd_company_code>RCDCC00002</rcd_company_code>
+        <total_number_in_set>200</total_number_in_set>
+  </record>
+    <record id="music_genre_code(GC00002)   rcd_company_code(RCDCC00002)   cd_set_id(CDSID0003)">
+        <music_genre_code>GC00002</music_genre_code>
+        <outlet_code>OLC00002</outlet_code>
+        <rcd_company_code>RCDCC00002</rcd_company_code>
+        <cd_set_id>CDSID0003</cd_set_id>
+        <various_artists_yn>y</various_artists_yn>
+        <cd_title>Sunny Day</cd_title>
+        <cost>2205.0</cost>
+        <date_released>2010-05-12 00:00:00.0</date_released>
+        <nr_of_tracks>24</nr_of_tracks>
+        <total_playing_time>2533.0</total_playing_time>
+        <cd_set_id>CDSID0003</cd_set_id>
+        <rcd_company_code>RCDCC00003</rcd_company_code>
+        <total_number_in_set>10</total_number_in_set>
+  </record>
+</table>
+
+

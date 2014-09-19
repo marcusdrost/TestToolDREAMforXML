@@ -1,0 +1,15 @@
+<table AggTagOnlyDiff="37" AggTagOnlyTotal="86">
+    <record AggTagOnlyDiff="37" AggTagOnlyTotal="86">
+        <cat AggTagOnlyDiff="4" AggTagOnlyTotal="10"></cat>
+        <book AggTagOnlyDiff="6" AggTagOnlyTotal="8"></book>
+        <country AggTagOnlyDiff="4" AggTagOnlyTotal="8"></country>
+        <name AggTagOnlyDiff="3" AggTagOnlyTotal="8"></name>
+        <firstname AggTagOnlyDiff="3" AggTagOnlyTotal="8"></firstname>
+        <street AggTagOnlyDiff="3" AggTagOnlyTotal="8"></street>
+        <housenr AggTagOnlyDiff="3" AggTagOnlyTotal="7"></housenr>
+        <postcode AggTagOnlyDiff="3" AggTagOnlyTotal="7"></postcode>
+        <city AggTagOnlyDiff="3" AggTagOnlyTotal="7"></city>
+        <state AggTagOnlyDiff="3" AggTagOnlyTotal="7"></state>
+        <custnr AggTagOnlyDiff="2" AggTagOnlyTotal="8"></custnr>
+    </record>
+</table>

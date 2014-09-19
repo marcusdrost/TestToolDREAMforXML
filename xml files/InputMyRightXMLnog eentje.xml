@@ -1,0 +1,89 @@
+<table name="customer">
+	<record id="1">
+		<custnr>100000</custnr>
+		<name>de Wit</name>
+		<firstname>Jan</firstname>
+		<street>High street</street>
+		<housenr>102</housenr>
+		<postcode>1826UI</postcode>
+		<city>Amsterdam</city>
+		<state>South Holland</state>
+		<country>Netherlands</country>
+		<cat>private</cat>
+		<book />		
+	</record>
+	<record id="2">
+		<book />
+		<custnr>100001</custnr>
+		<name>Zwart</name>
+		<firstname>Philip</firstname>
+		<street>Bakerstreet</street>
+		<housenr>302ii</housenr>
+		<postcode>1828JI</postcode>
+		<city>Rotterdam</city>
+		<state>South Holland</state>
+		<country>Netherlands</country>
+		<cat>business</cat>
+	</record>
+	<record id="3">
+		<custnr>100002</custnr>
+		<name>Jansen</name>
+		<firstname>John</firstname>
+		<street>Hanseweg</street>
+		<housenr>203</housenr>
+		<postcode>3822FI</postcode>
+		<city>Den Haag</city>
+		<state>South Hollaand</state>
+		<country>Netherlands</country>
+		<cat>business</cat>
+		<book>Hi</book>
+	</record>
+	<record id="4">
+		<custnr>100003</custnr>
+		<name>Flipse</name>
+		<firstname>Karen</firstname>
+		<street>Hoofdstraat</street>
+		<book />
+	</record>		
+	<record id="6">
+		<custnr>100009</custnr>
+		<name>Pieters</name>
+		<firstname>Greg</firstname>
+		<street>Lange straat</street>
+		<housenr>12</housenr>
+		<postcode>1142IX</postcode>
+		<city>Venlo</city>
+		<state>Limburg</state>
+		<country>Netherlands</country>
+		<cat>privé</cat>		
+		<book />
+	</record>	
+	<record id="10">
+		<custnr>100033</custnr>
+		<name>Pieters</name>
+		<firstname>Greg</firstname>
+		<street>Lange straat</street>
+		<housenr>12</housenr>
+		<postcode>1142IX</postcode>
+		<city>Venlo</city>
+		<state>Groningen</state>
+		<country>Netherlands</country>
+		<cat>privé</cat>		
+		<book />
+	</record>	
+	<record id="11">
+		<custnr>100034</custnr>
+		<name>Pieters</name>
+		<firstname>Greg</firstname>
+		<street>Lange straat</street>
+		<housenr>12</housenr>
+		<postcode>1142IX</postcode>
+		<city>Venlo</city>
+		<state>Zeeland</state>
+		<country>Netherlands</country>
+		<cat>privé</cat>		
+		<book />
+	</record>	
+</table>
+
+

@@ -1,0 +1,40 @@
+<table name="customer">
+    <record id="1">
+        <custnr></custnr>
+        <name></name>
+        <firstname></firstname>
+        <street></street>
+        <housenr>1000 versus 102</housenr>
+        <postcode></postcode>
+        <city></city>
+        <state></state>
+        <country></country>
+    </record>
+    <record id="2">
+        <custnr></custnr>
+        <name>Zwartt versus Zwart</name>
+        <firstname></firstname>
+        <street></street>
+        <housenr>30 versus 302ii</housenr>
+        <postcode></postcode>
+        <city></city>
+        <state></state>
+        <country></country>
+        <cat></cat>
+    </record>
+    <record id="3">
+        <custnr></custnr>
+        <name></name>
+        <firstname></firstname>
+        <street></street>
+        <housenr>20 versus 203</housenr>
+        <postcode></postcode>
+        <city></city>
+        <state>outh Holland versus outh Hollaand</state>
+        <country></country>
+        <cat></cat>
+    </record>
+    <record id="6">
+        <custnr>100012 versus 100009</custnr>
+    </record>
+</table>

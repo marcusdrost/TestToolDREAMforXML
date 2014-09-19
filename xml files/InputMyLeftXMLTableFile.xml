@@ -1,0 +1,81 @@
+<table name="customer">
+	<record id="1">
+		<custnr>100000</custnr>
+		<name>de Wit</name>
+		<firstname>Jan</firstname>
+		<street>High street</street>
+		<housenr>1000</housenr>
+		<postcode>1826UI</postcode>
+		<city>Amsterdam</city>
+		<state>South Holland</state>
+		<country>Netherlands</country>
+		<cat>private1</cat>
+		<cat>private2</cat>
+		<cat>private3</cat>
+		<book />	
+	</record>
+	<record id="2">
+		<custnr>100001</custnr>
+		<name>Zwartt</name>
+		<firstname>Philip</firstname>
+		<street>Bakerstreet</street>
+		<housenr>30</housenr>
+		<postcode>1828JI</postcode>
+		<city>Rotterdam</city>
+		<state>South Holland</state>
+		<country>Netherlands</country>
+		<cat>business</cat>
+		<cat>business</cat>		
+	</record>
+	<record id="3">
+		<custnr>100002</custnr>
+		<name>Jansen</name>
+		<firstname>John</firstname>
+		<street>Hanseweg</street>
+		<housenr>20</housenr>
+		<postcode>3822FI</postcode>
+		<city>Den Haag</city>
+		<state>South Holland</state>
+		<country>Netherlands</country>
+		<cat>business</cat>
+	</record>
+	<record id="4">
+		<custnr>100003</custnr>
+		<name>Flipse</name>
+		<firstname>Karen</firstname>
+		<street>Hoofdstraat</street>
+		<housenr>201</housenr>
+		<postcode>3822FI</postcode>
+		<city>Middelburg</city>
+		<state>Zeeland</state>
+		<country>Netherlands</country>
+		<cat>privé</cat>	
+	</record>	
+	<record id="6">
+		<custnr>100012</custnr>
+	</record>		
+	<record id="15">
+		<custnr>100000</custnr>
+		<name>de Groen</name>
+		<firstname>Jan</firstname>
+		<street>High street</street>
+		<housenr>1000</housenr>
+		<postcode>1826UI</postcode>
+		<city>Amsterdam</city>
+		<state>South Holland</state>
+		<country>Netherlands</country>
+		<cat>private1</cat>
+		<cat>private2</cat>
+		<cat>private3</cat>
+		<book />	
+	</record>
+</table>
+
+
+
+
+
+
+
+
+

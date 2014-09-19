@@ -1,0 +1,268 @@
+<table name="customer">
+	<record id="1">
+		<custnr>1100000</custnr>
+		<name>1de Wit</name>
+		<firstname>1Jan</firstname>
+		<street>1High street</street>
+		<housenr>11000</housenr>
+		<postcode>11826UI</postcode>
+		<city>AAmsterdam</city>
+		<state>South Holland</state>
+		<country>1Netherlands</country>
+		<cat>1private1</cat>
+		<book />	
+	</record>
+	<record id="2">
+		<custnr>2100000</custnr>
+		<name>2de Wit</name>
+		<firstname>2Jan</firstname>
+		<street>2High street</street>
+		<housenr>21000</housenr>
+		<postcode>21826UI</postcode>
+		<city>AAmsterdam</city>
+		<state>South Holland</state>
+		<country>2Netherlands</country>
+		<cat>2private1</cat>
+		<book />	
+	</record>
+	<record id="3">
+		<custnr>3100000</custnr>
+		<name>3de Wit</name>
+		<firstname>3Jan</firstname>
+		<street>3High street</street>
+		<housenr>31000</housenr>
+		<postcode>31826UI</postcode>
+		<city>AAmsterdam</city>
+		<state>South Holland</state>
+		<country>3Netherlands</country>
+		<cat>3private1</cat>
+		<book />	
+	</record>
+	<record id="4">
+		<custnr>4100000</custnr>
+		<name>4de Wit</name>
+		<firstname>4Jan</firstname>
+		<street>4High street</street>
+		<housenr>41000</housenr>
+		<postcode>41826UI</postcode>
+		<city>AAmsterdam</city>
+		<state>South Holland</state>
+		<country>4Netherlands</country>
+		<cat>4private1</cat>
+		<book />	
+	</record>
+	<record id="5">
+		<custnr>5100000</custnr>
+		<name>5de Wit</name>
+		<firstname>5Jan</firstname>
+		<street>5High street</street>
+		<housenr>51000</housenr>
+		<postcode>51826UI</postcode>
+		<city>Amsterdam</city>
+		<state>South Holland</state>
+		<country>Netherlands</country>
+		<cat>5private1</cat>
+		<book />	
+	</record>
+	<record id="6">
+		<custnr>6100000</custnr>
+		<name>6de Wit</name>
+		<firstname>6Jan</firstname>
+		<street>6High street</street>
+		<housenr>61000</housenr>
+		<postcode>61826UI</postcode>
+		<city>AAmsterdam</city>
+		<state>South Holland</state>
+		<country>6Netherlands</country>
+		<cat>6private1</cat>
+		<book />	
+	</record>
+	<record id="7">
+		<custnr>7100000</custnr>
+		<name>7de Wit</name>
+		<firstname>7Jan</firstname>
+		<street>7High street</street>
+		<housenr>71000</housenr>
+		<postcode>71826UI</postcode>
+		<city>Amsterdam</city>
+		<state>South Holland</state>
+		<country>7Netherlands</country>
+		<cat>7private1</cat>
+		<book />	
+	</record>
+	<record id="8">
+		<custnr>8100000</custnr>
+		<name>8de Wit</name>
+		<firstname>8Jan</firstname>
+		<street>8High street</street>
+		<housenr>81000</housenr>
+		<postcode>81826UI</postcode>
+		<city>AAmsterdam</city>
+		<state>South Holland</state>
+		<country>8Netherlands</country>
+		<cat>8private1</cat>
+		<book />	
+	</record>
+	<record id="9">
+		<custnr>100000</custnr>
+		<name>de Wit</name>
+		<firstname>Jan</firstname>
+		<street>High street</street>
+		<housenr>1000</housenr>
+		<postcode>1826UI</postcode>
+		<city>Amsterdam</city>
+		<state>South Holland</state>
+		<country>Netherlands</country>
+		<cat>private1</cat>
+		<book />	
+	</record>
+	<record id="10">
+		<custnr>100000</custnr>
+		<name>de Wit</name>
+		<firstname>Jan</firstname>
+		<street>High street</street>
+		<housenr>1000</housenr>
+		<postcode>1826UI</postcode>
+		<city>Amsterdam</city>
+		<state>North Holland</state>
+		<country>Netherlands</country>
+		<cat>private1</cat>
+		<book />	
+	</record>
+	<record id="11">
+		<custnr>100000</custnr>
+		<name>de Wit</name>
+		<firstname>Jan</firstname>
+		<street>High street</street>
+		<housenr>1000</housenr>
+		<postcode>1826UI</postcode>
+		<city>Amsterdam</city>
+		<state>North Holland</state>
+		<country>Netherlands</country>
+		<cat>private1</cat>
+		<book />	
+	</record>
+	<record id="12">
+		<custnr>100000</custnr>
+		<name>de Wit</name>
+		<firstname>Jan</firstname>
+		<street>High street</street>
+		<housenr>1000</housenr>
+		<postcode>1826UI</postcode>
+		<city>Amsterdam</city>
+		<state>North Holland</state>
+		<country>Netherlands</country>
+		<cat>private1</cat>
+		<book />	
+	</record>
+	<record id="13">
+		<custnr>100000</custnr>
+		<name>de Wit</name>
+		<firstname>Jan</firstname>
+		<street>High street</street>
+		<housenr>1000</housenr>
+		<postcode>1826UI</postcode>
+		<city>Amsterdam</city>
+		<state>North Holland</state>
+		<country>Netherlands</country>
+		<cat>private1</cat>
+		<book />	
+	</record>
+	<record id="14">
+		<custnr>100000</custnr>
+		<name>de Wit</name>
+		<firstname>Jan</firstname>
+		<street>High street</street>
+		<housenr>1000</housenr>
+		<postcode>1826UI</postcode>
+		<city>Amsterdam</city>
+		<state>North Holland</state>
+		<country>Netherlands</country>
+		<cat>private1</cat>
+		<book />	
+	</record>
+	<record id="15">
+		<custnr>100000</custnr>
+		<name>de Wit</name>
+		<firstname>Jan</firstname>
+		<street>High street</street>
+		<housenr>1000</housenr>
+		<postcode>1826UI</postcode>
+		<city>Amsterdam</city>
+		<state>North Holland</state>
+		<country>Netherlands</country>
+		<cat>private1</cat>
+		<book />	
+	</record>
+	<record id="16">
+		<custnr>100000</custnr>
+		<name>de Wit</name>
+		<firstname>Jan</firstname>
+		<street>High street</street>
+		<housenr>1000</housenr>
+		<postcode>1826UI</postcode>
+		<city>Amsterdam</city>
+		<state>North Holland</state>
+		<country>Netherlands</country>
+		<cat>private1</cat>
+		<book />	
+	</record>
+	<record id="17">
+		<custnr>100000</custnr>
+		<name>de Wit</name>
+		<firstname>Jan</firstname>
+		<street>High street</street>
+		<housenr>1000</housenr>
+		<postcode>1826UI</postcode>
+		<city>Amsterdam</city>
+		<state>North Holland</state>
+		<country>Netherlands</country>
+		<cat>private1</cat>
+		<book />	
+	</record>
+	<record id="18">
+		<custnr>100000</custnr>
+		<name>de Wit</name>
+		<firstname>Jan</firstname>
+		<street>High street</street>
+		<housenr>1000</housenr>
+		<postcode>1826UI</postcode>
+		<city>Amsterdam</city>
+		<state>North Holland</state>
+		<country>Netherlands</country>
+		<cat>private1</cat>
+		<book />	
+	</record>
+	<record id="19">
+		<custnr>100000</custnr>
+		<name>de Wit</name>
+		<firstname>Jan</firstname>
+		<street>High street</street>
+		<housenr>1000</housenr>
+		<postcode>1826UI</postcode>
+		<city>Amsterdam</city>
+		<state>North Holland</state>
+		<country>Netherlands</country>
+		<cat>private1</cat>
+		<book />	
+	</record>
+	<record id="20">
+		<custnr>100000</custnr>
+		<name>de Wit</name>
+		<firstname>Jan</firstname>
+		<street>High street</street>
+		<housenr>1000</housenr>
+		<postcode>1826UI</postcode>
+		<city>Amsterdam</city>
+		<state>North Holland</state>
+		<country>Netherlands</country>
+		<cat>private1</cat>
+		<book />	
+	</record>
+</table name>
+
+
+
+
+
+

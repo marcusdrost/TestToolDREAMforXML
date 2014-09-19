@@ -1,0 +1,14 @@
+<table AggTagOnlyDiff="90" AggTagOnlyTotal="220">
+    <record AggTagOnlyDiff="90" AggTagOnlyTotal="220">
+        <custnr AggTagOnlyDiff="9" AggTagOnlyTotal="20" DomValDiff="9" DomValTotal="9"></custnr>
+        <name AggTagOnlyDiff="9" AggTagOnlyTotal="20" DomValDiff="9" DomValTotal="9"></name>
+        <firstname AggTagOnlyDiff="9" AggTagOnlyTotal="20" DomValDiff="9" DomValTotal="9"></firstname>
+        <street AggTagOnlyDiff="9" AggTagOnlyTotal="20" DomValDiff="9" DomValTotal="9"></street>
+        <housenr AggTagOnlyDiff="9" AggTagOnlyTotal="20" DomValDiff="9" DomValTotal="9"></housenr>
+        <postcode AggTagOnlyDiff="9" AggTagOnlyTotal="20" DomValDiff="9" DomValTotal="9"></postcode>
+        <city AggTagOnlyDiff="9" AggTagOnlyTotal="20" DomValDiff="3" DomValTotal="4"></city>
+        <state AggTagOnlyDiff="9" AggTagOnlyTotal="20" DomValDiff="1" DomValTotal="2"></state>
+        <country AggTagOnlyDiff="9" AggTagOnlyTotal="20" DomValDiff="8" DomValTotal="8"></country>
+        <cat AggTagOnlyDiff="9" AggTagOnlyTotal="20" DomValDiff="9" DomValTotal="9"></cat>
+    </record>
+</table name>

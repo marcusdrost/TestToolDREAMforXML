@@ -1,0 +1,5 @@
+cd_set_id, rcd_company_code, total_number_in_set, cd_set_name
+CDSID0001, RCDCC00001, 100, Top Set
+CDSID0002, RCDCC00002, 200, Max Set
+CDSID0003, RCDCC00003, 10, Start Set
+CDSID0004, RCDCC00004, 1, Single Set

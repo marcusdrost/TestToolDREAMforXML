@@ -1,0 +1,8 @@
+<staff id="1001" lang="EN" date="02042014" country="England" continent="Europe">
+    <firstname>Hello this is a nice borld.</firstname>
+    <address>
+        <street>
+        </street>
+    </address>
+    <tax>1000000</tax>
+</staff>

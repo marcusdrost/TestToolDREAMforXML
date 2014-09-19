@@ -1,0 +1,22 @@
+<staff id="1001" lang="EN" date="02042014" country="England" continent="Europe">
+	<firstname>Hello this is a nice borld.</firstname>
+	<address> <street> <house> myHouse</house>  <nr> <no>10</no> <alph>A</alph> </nr> </street>  
+	<trailor>at the farmer</trailor> <boot>stoomschip</boot> </address>
+	<lastname>mook kimi</lastname>
+	<h:nickname>mkyong</h:nickname>
+	<f:nickname>mkyong</f:nickname>
+	<salary>1000000</salary>
+	<tax>1000000</tax>		
+	<reader> <learner> <shelf>  </shelf> </learner> </reader>	
+</staff>
+
+
+
+
+
+
+
+
+
+
+

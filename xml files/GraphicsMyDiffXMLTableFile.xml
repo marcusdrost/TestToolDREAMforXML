@@ -1,0 +1,9 @@
+<table AggTagOnlyDiff="8" AggTagOnlyTotal="45">
+    <record AggTagOnlyDiff="8" AggTagOnlyTotal="45">
+        <custnr AggTagOnlyDiff="2" AggTagOnlyTotal="5" DomValDiff="2" DomValTotal="5"></custnr>
+        <housenr AggTagOnlyDiff="3" AggTagOnlyTotal="4" DomValDiff="3" DomValTotal="4"></housenr>
+        <cat AggTagOnlyDiff="1" AggTagOnlyTotal="7" DomValDiff="1" DomValTotal="5"></cat>
+        <name AggTagOnlyDiff="1" AggTagOnlyTotal="4" DomValDiff="1" DomValTotal="4"></name>
+        <state AggTagOnlyDiff="1" AggTagOnlyTotal="4" DomValDiff="1" DomValTotal="2"></state>
+    </record>
+</table>

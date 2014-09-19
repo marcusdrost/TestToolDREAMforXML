@@ -1,0 +1,10 @@
+Licence
+
+DREAM is proprietary software licenced by MD IT Consultancy. MD IT Consultancy has the exclusive legal right of being copyright holder. Licensee is given the right to use the software only under certain conditions as agreed with MD IT Consultancy. 
+
+Other uses are not allowed to do the following:
+1. make modifications in the software
+2. redistributing the software
+3. reverse engineering
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

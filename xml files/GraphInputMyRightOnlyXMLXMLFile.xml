@@ -1,0 +1,8 @@
+<staff AggTagOnlyDiff="4" AggTagOnlyTotal="12">
+    <firstname AggTagOnlyDiff="1" AggTagOnlyTotal="1" DomValDiff="1" DomValTotal="1"></firstname>
+    <address AggTagOnlyDiff="2" AggTagOnlyTotal="5">
+        <street AggTagOnlyDiff="2" AggTagOnlyTotal="3">
+        </street>
+    </address>
+    <tax AggTagOnlyDiff="1" AggTagOnlyTotal="1" DomValDiff="1" DomValTotal="1"></tax>
+</staff>

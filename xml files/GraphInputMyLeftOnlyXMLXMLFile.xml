@@ -1,0 +1,11 @@
+<staff AggTagOnlyDiff="9" AggTagOnlyTotal="16">
+    <firstname AggTagOnlyDiff="2" AggTagOnlyTotal="2" DomValDiff="2" DomValTotal="2"></firstname>
+    <tipname AggTagOnlyDiff="1" AggTagOnlyTotal="1" DomValDiff="1" DomValTotal="1"></h:tipname>
+    <work_places AggTagOnlyDiff="5" AggTagOnlyTotal="5">
+        <work_place AggTagOnlyDiff="5" AggTagOnlyTotal="5" DomValDiff="5" DomValTotal="5"></work_place>
+    </work_places>
+    <reader AggTagOnlyDiff="1" AggTagOnlyTotal="1">
+        <learner AggTagOnlyDiff="1" AggTagOnlyTotal="1">
+        </learner>
+    </reader>
+</staff>

@@ -1,0 +1,17 @@
+<staff id="1001" lang="EN" date="02042014" country="England" continent="Europe">
+    <firstname>Hello this is a nice world.</firstname>
+    <firstname>kid</firstname>
+    <h:tipname>mkyong</h:tipname>
+    <salary>1000000</salary>
+    <work_places>
+        <work_place nr="1">terminal cotton</work_place>
+        <work_place nr="2">terminal gas</work_place>
+        <work_place>terminal oil</work_place>
+        <work_place>terminal water</work_place>
+        <work_place>terminal wood</work_place>
+    </work_places>
+    <reader>
+        <learner>
+        </learner>
+    </reader>
+</staff>

@@ -1,0 +1,10 @@
+<table AggTagOnlyDiff="9" AggTagOnlyTotal="58">
+    <record AggTagOnlyDiff="9" AggTagOnlyTotal="58">
+        <cat AggTagOnlyDiff="4" AggTagOnlyTotal="10"></cat>
+        <housenr AggTagOnlyDiff="1" AggTagOnlyTotal="5"></housenr>
+        <postcode AggTagOnlyDiff="1" AggTagOnlyTotal="5"></postcode>
+        <city AggTagOnlyDiff="1" AggTagOnlyTotal="5"></city>
+        <state AggTagOnlyDiff="1" AggTagOnlyTotal="5"></state>
+        <country AggTagOnlyDiff="1" AggTagOnlyTotal="5"></country>
+    </record>
+</table>
